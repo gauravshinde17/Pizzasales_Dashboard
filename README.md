@@ -1,5 +1,5 @@
 # PIZZA SALES DASHBOARD
-![](image2.avif)
+![](image1.avif)
 
 
 
