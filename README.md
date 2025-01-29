@@ -1,5 +1,5 @@
 # PIZZA SALES DASHBOARD
-![](image1.jpg)
+![](image2.webp)
 
 
 
