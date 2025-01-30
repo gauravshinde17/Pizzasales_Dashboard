@@ -43,7 +43,9 @@ Key Insights from Project
 
 The restaurant's sales data highlights clear customer preferences and purchasing behaviors. The dominance of The Thai Chicken Pizza suggests a strong inclination toward unique yet familiar flavors. The Classic category’s lead in sales demonstrates an ongoing demand for traditional flavors, while the *Premium* category’s performance indicates an openness to trying higher-end options.  
 
-Seasonality plays a significant role, with noticeable spikes in July, May, and March, indicating a strategic opportunity to maximize sales through promotions and special offerings. Furthermore, sales are highly dependent on mealtime, as seen in peak orders around 12 PM, 1 PM, and 6 PM. Weekday analysis shows FRIDAYS as the best-performing day, suggesting that weekend dining trends start early, while SUNDAYS present an opportunity to boost sales through targeted marketing.  
+Seasonality plays a significant role, with noticeable spikes in July, May, and March, indicating a strategic opportunity to maximize sales through promotions and special offerings. Furthermore, sales are highly dependent on mealtime, as seen in peak orders around 12 PM, 1 PM, and 6 PM. Weekday analysis shows FRIDAYS as the best-performing day, suggesting that weekend dining trends start early, while SUNDAYS present an opportunity to boost sales through targeted marketing.
+
+![](image3.jpeg)
   
 ### Recommendations
 ### 1. Product Strategy  
