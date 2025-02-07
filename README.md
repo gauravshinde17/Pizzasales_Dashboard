@@ -36,7 +36,8 @@ Key Insights from Project
 - Sales peaked in July, May, and March, indicating higher demand during summer and spring, possibly due to holidays or special occasions.
 
 ### 4️⃣ Order Patterns 
-- Peak Ordering Times:Most orders were placed at 12 PM, 1 PM, and 6 PM, aligning with lunch and dinner hours.  
+- Peak Ordering Times:
+  - Most orders were placed at 12 PM, 1 PM, and 6 PM, aligning with lunch and dinner hours.  
 - Day of the Week Trends:
   - FRIDAYS recorded the highest sales, likely due to the start of the weekend and social gatherings.  
   - SUNDAYS had the lowest sales, possibly due to reduced dining out and a preference for home-cooked meals.
