@@ -82,7 +82,7 @@ Seasonality plays a significant role, with noticeable spikes in July, May, and M
    🍕 Improve delivery service speed during peak hours to enhance customer satisfaction.
 
 ## 📊 DASHBOARD
-![](dashboard.png)
+![](Dashboard1.png)
 
 
 
